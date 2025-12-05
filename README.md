@@ -32,7 +32,8 @@ This folder contains financial performance reports designed to evaluate revenue,
 The Finance Analytics files provide a reliable summary of profitability trends, margin behavior, and financial growth, supporting budgeting and long-term planning.
 
 **Reports**
-https://github.com/Asha-3621/Excel_analytics_project/blob/ce32f4b53bc4bf91f356cd35965272518d54903f/Financial_Analytics/GM%20%25%20By%20Quarter.pdf
+[GM % By Quarter](https://is.gd/gmquarter)
+
 
 # **📈 Sales Analytics**
 
